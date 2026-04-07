@@ -60,7 +60,7 @@ function ordinalWord(n) {
     body.compact-trial .candidate-block > :first-child { margin-top: 0 !important; padding-top: 0 !important; }
     body.compact-trial .candidate-block h3 { margin: 0 0 6px 0 !important; line-height: 1.22; }
     body.compact-trial .candidate-block p { margin: 6px 0; line-height: 1.28; }
-    body.compact-trial .candidate-block img { max-width: 240px; height: auto; margin: 4px 0; }
+    body.compact-trial .candidate-block img { max-width: 360px; height: auto; margin: 4px 0; }
     body.compact-trial .jspsych-survey-likert-question { margin: 6px 0 !important; }
     body.compact-trial .jspsych-survey-likert-statement { margin-bottom: 6px !important; }
     body.compact-trial .jspsych-survey-likert-opts { margin: 4px 0 !important; }
@@ -306,7 +306,7 @@ function buildCandidateTrials(scenario, scenarioNumber) {
     const prompt = `
       <div class="candidate-block" style="text-align:center; max-width:900px; margin:0 auto;">
         <div style="margin-bottom:22px;">
-          <img src="${img}" alt="Candidate face" style="display:block; margin:4px auto; max-width:240px; height:auto;">
+          <img src="${img}" alt="Candidate face" style="display:block; margin:4px auto; max-width:360px; height:auto;">
         </div>
 
         <p style="margin:18px 0 10px 0;">
