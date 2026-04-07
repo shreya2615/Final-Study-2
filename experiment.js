@@ -306,7 +306,7 @@ function buildCandidateTrials(scenario, scenarioNumber) {
     const prompt = `
       <div class="candidate-block" style="text-align:center; max-width:900px; margin:0 auto;">
         <div style="margin-bottom:22px;">
-          <img src="${img}" alt="Candidate face" style="display:block; margin:4px auto; max-width:240px; height:auto;">
+          <img src="${img}" alt="Candidate face" style="display:block; margin:4px auto; max-width:360px; height:auto;">
         </div>
 
         <p style="margin:18px 0 10px 0;">
