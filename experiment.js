@@ -209,13 +209,14 @@ const CONDITION_PATTERNS = {
 
 /* ---------- Firebase ---------- */
 const firebaseConfig = {
-  apiKey: "AIzaSyDVFN2B7ux0o--VEHY4ojHEdXWb864LBCk",
-  authDomain: "final-study-eb20c.firebaseapp.com",
-  projectId: "final-study-eb20c",
-  storageBucket: "final-study-eb20c.firebasestorage.app",
-  messagingSenderId: "1060756765989",
-  appId: "1:1060756765989:web:09fc13bb4f562abc236ecc",
-  measurementId: "G-8ZSSF48Q1F"
+  apiKey: "AIzaSyBglBrfdOVC1ryc-rJXZaoyXxLwhGotCF4",
+  authDomain: "final-study-2.firebaseapp.com",
+  databaseURL: "https://final-study-2-default-rtdb.firebaseio.com",
+  projectId: "final-study-2",
+  storageBucket: "final-study-2.firebasestorage.app",
+  messagingSenderId: "651688222372",
+  appId: "1:651688222372:web:7d694f31767173f07a9031",
+  measurementId: "G-ERGVP956WL"
 };
 
 const app = firebase.initializeApp(firebaseConfig);
