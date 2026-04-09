@@ -535,7 +535,7 @@ const jsPsych = initJsPsych({
       .then(() => {
         document.body.innerHTML = `
           <div style="text-align:center; max-width:900px; margin:48px auto;">
-            <h2>All done! Your completion code is <b>3D5A7B471C</b></h2>
+            <h2>All done! Your completion code is <b>3F509E1255</b></h2>
             <p>Your responses have been securely logged, you may now close this window.</p>
           </div>
         `;
