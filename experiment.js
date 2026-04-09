@@ -705,8 +705,8 @@ function buildTimeline(preloadImages, scenarioTrials) {
           <select name="gender" id="demo_gender"
                   style="width:260px; padding:4px; margin-top:4px;">
             <option value="" disabled selected>-- Please select --</option>
-            <option value="Male">Man</option>
-            <option value="Female">Woman</option>
+            <option value="Male">Male</option>
+            <option value="Female">Female</option>
           </select>
         </p>
 
