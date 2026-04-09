@@ -604,7 +604,7 @@ function buildTimeline(preloadImages, scenarioTrials) {
 
           <p><b>Confidentiality:</b> All data will be collected anonymously. Data will be stored in a secure online system accessible only to the research team.</p>
 
-          <p><b>Questions?</b> For questions about the study, contact Dr. Vinod Goel, Eshnaa Aujla, or Shreya Sharma.</p>
+          <p><b>Questions?</b> For questions about the study, contact Dr. Vinod Goel or Shreya Sharma.</p>
 
           <p><b>Legal Rights and Signatures:</b><br>
           By selecting “I consent to participate,” you indicate that you have read and understood the information above and agree to participate voluntarily.</p>
@@ -705,8 +705,8 @@ function buildTimeline(preloadImages, scenarioTrials) {
           <select name="gender" id="demo_gender"
                   style="width:260px; padding:4px; margin-top:4px;">
             <option value="" disabled selected>-- Please select --</option>
-            <option value="Man">Man</option>
-            <option value="Woman">Woman</option>
+            <option value="Male">Man</option>
+            <option value="Female">Woman</option>
           </select>
         </p>
 
